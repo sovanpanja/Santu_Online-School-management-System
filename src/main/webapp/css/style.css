@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+.bg-success {
+    --bs-bg-opacity: 1;
+    background-color: #19871f !important;
+    font-weight: 400;
+}
+.custom-size{
+	height:500px
+}
+
